@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="salvus-logo" src="assets/logo.png" width="200px" />
+    <img alt="data-mining-logo" src="assets/logo.png" width="200px" />
 </h1>
 <div  align="center">
   <h1>
